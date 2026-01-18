@@ -1,1 +1,2 @@
+Hello , welcome everyone!
 This is my first Git assignment.
