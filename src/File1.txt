@@ -1,9 +1,0 @@
-Hello , welcome everyone!
-This is my first Git assignment.
-This change is done in feature branch.
-This line is added from main branch.
-<<<<<<< HEAD:src/File1.txt
-=======
-Cherry change 1
-Cherry change 2 
->>>>>>> 31a9332 (Cherry commit 2):File1.txt
